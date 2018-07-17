@@ -16,7 +16,8 @@ public class FactorialNumber {
 		
 		
 		// Using recursive function
-		System.out.println("Factorial using Recursion");
+		System.out.println();
+		System.out.println("Using Recursion");
 		int factorial = getFactorialOfNumber(number);
 		System.out.println("Factorial of "+ number +" is "+ factorial);
 		
